@@ -1,0 +1,7 @@
+[tool.ruff]
+src = ["api_yamdb"]
+line-length = 79
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
